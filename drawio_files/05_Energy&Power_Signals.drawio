@@ -213,7 +213,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Y4XswF_jRdUBqngVkf_1" name="Exercise 1">
-    <mxGraphModel dx="777" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="720" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -252,8 +252,8 @@
         <mxCell id="UG2G2s75xn-w1sXVM5mk-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x = \lim_{T&amp;nbsp; \to \infty} \int_{-T}^{T} |A \cdot cos \space (2 \pi f)|^2 \space dt =&amp;nbsp;&amp;nbsp;\lim_{T&amp;nbsp; \to \infty} \int_{-T}^{T} A^2 \cdot cos^2 (2 \pi f) \space dt \space = \space \lim_{T&amp;nbsp; \to \infty} \int_{-T}^{T}&amp;nbsp;A^2&amp;nbsp;\frac{1}{2} [1 + cos \space (2 \cdot 2 \pi f)] \space dt \Rightarrow $$" vertex="1">
           <mxGeometry height="53.59" width="592.15" x="207.30000000000004" y="392.12" as="geometry" />
         </mxCell>
-        <mxCell id="UG2G2s75xn-w1sXVM5mk-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x = \lim_{T&amp;nbsp; \to \infty} \frac{A^2}{2} \int_{-T}^{T} [ 1 + cos \space (4 \pi f \space t)] \space dt =&amp;nbsp;&amp;nbsp;\lim_{T&amp;nbsp; \to \infty}&amp;nbsp;&amp;nbsp;\frac{A^2}{2} [ \int_{-T}^{T} 1 \cdot dt +&amp;nbsp;&amp;nbsp;\int_{-T}^{T} cos \space (4 \pi f \space t) \space dt] \Rightarrow $$" vertex="1">
-          <mxGeometry height="53.59" width="478.78" x="371.55" y="512.45" as="geometry" />
+        <mxCell id="UG2G2s75xn-w1sXVM5mk-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x = \lim_{T&amp;nbsp; \to \infty} \frac{A^2}{2} \int_{-T}^{T} \left[ 1 + cos \space (4 \pi f \space t) \right] \space dt =&amp;nbsp;&amp;nbsp;\lim_{T&amp;nbsp; \to \infty}&amp;nbsp;&amp;nbsp;\frac{A^2}{2} \left[ \int_{-T}^{T} 1 \cdot dt +&amp;nbsp;&amp;nbsp;\int_{-T}^{T} cos \space (4 \pi f \space t) \space dt \right] \Rightarrow $$" vertex="1">
+          <mxGeometry height="53.59" width="488.45" x="369.55" y="512.45" as="geometry" />
         </mxCell>
         <mxCell id="lk5MplffhuE9riTD0fdG-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontFamily=Lucida Console;fontColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="*" vertex="1">
           <mxGeometry height="17.83" width="21.26" x="560.16" y="405" as="geometry" />
@@ -306,13 +306,13 @@
         <mxCell id="_jLuwTUtsV6lF5p9SzgX-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontFamily=Lucida Console;fontColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="*" vertex="1">
           <mxGeometry height="17.83" width="21.26" x="715" y="912" as="geometry" />
         </mxCell>
-        <mxCell id="_jLuwTUtsV6lF5p9SzgX-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp;\lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} [ \int_{-T_o /2}^{T_o /2}&amp;nbsp; 1 \space dt + \int_{-T_o /2}^{T_o /2}&amp;nbsp;cos \space (4 \pi f_o t) \space dt]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;\lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} [ t + \frac{1}{4 \pi f_o} \cdot sin(4 \pi f_o t)]_{-T_o /2}^{T_o /2}&amp;nbsp; \Rightarrow $$" vertex="1">
-          <mxGeometry height="53.59" width="541.73" x="294.08" y="970" as="geometry" />
+        <mxCell id="_jLuwTUtsV6lF5p9SzgX-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp;\lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} \left[ \int_{-T_o /2}^{T_o /2}&amp;nbsp; 1 \space dt + \int_{-T_o /2}^{T_o /2}&amp;nbsp;cos \space (4 \pi f_o t) \space dt \right]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;\lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} \left[ t + \frac{1}{4 \pi f_o} \cdot sin(4 \pi f_o t) \right]_{-T_o /2}^{T_o /2}&amp;nbsp; \Rightarrow $$" vertex="1">
+          <mxGeometry height="53.59" width="555.92" x="294.08" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="_jLuwTUtsV6lF5p9SzgX-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} [ \frac{T_o}{2} -&amp;nbsp; (\frac{-T_o}{2}) + \frac{1}{4 \pi f_o} \cdot sin(4 \pi f_o \frac{T_o}{2}) - \frac{1}{4 \pi f_o} \cdot sin(- 4 \pi f_o \frac{T_o}{2})&amp;nbsp;]&amp;nbsp; \Rightarrow $$" vertex="1">
+        <mxCell id="_jLuwTUtsV6lF5p9SzgX-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} \left[ \frac{T_o}{2} -&amp;nbsp; (\frac{-T_o}{2}) + \frac{1}{4 \pi f_o} \cdot sin(4 \pi f_o \frac{T_o}{2}) - \frac{1}{4 \pi f_o} \cdot sin(- 4 \pi f_o \frac{T_o}{2}) \right]&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="43.59" width="476.73" x="332.43" y="1047" as="geometry" />
         </mxCell>
-        <mxCell id="_jLuwTUtsV6lF5p9SzgX-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} [ \frac{T_o}{2} + (\frac{T_o}{2}) + \frac{1}{4 \pi f_o} \cdot sin(2 \pi f_o T_o) - \frac{1}{4 \pi f_o} \cdot sin(- 2 \pi f_o T_o)&amp;nbsp;]&amp;nbsp; \Rightarrow $$" vertex="1">
+        <mxCell id="_jLuwTUtsV6lF5p9SzgX-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} \left[ \frac{T_o}{2} + (\frac{T_o}{2}) + \frac{1}{4 \pi f_o} \cdot sin(2 \pi f_o T_o) - \frac{1}{4 \pi f_o} \cdot sin(- 2 \pi f_o T_o) \right]&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="43.59" width="457.83" x="382.17" y="1110" as="geometry" />
         </mxCell>
         <mxCell id="_jLuwTUtsV6lF5p9SzgX-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontFamily=Lucida Console;fontColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="**" vertex="1">
@@ -327,11 +327,11 @@
         <mxCell id="_jLuwTUtsV6lF5p9SzgX-11" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="40.7" width="158.57" x="500" y="1178.91" as="geometry" />
         </mxCell>
-        <mxCell id="_jLuwTUtsV6lF5p9SzgX-13" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} [ T_o + \frac{1}{4 \pi f_o} \cdot sin(2 \pi) - \frac{1}{4 \pi f_o} \cdot sin(- 2 \pi)&amp;nbsp;]&amp;nbsp; \Rightarrow $$" vertex="1">
+        <mxCell id="_jLuwTUtsV6lF5p9SzgX-13" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P}_x =&amp;nbsp; &amp;nbsp; \lim_{T_o&amp;nbsp; \to \infty} \frac{A^2}{2 T_o} \left[ T_o + \frac{1}{4 \pi f_o} \cdot sin(2 \pi) - \frac{1}{4 \pi f_o} \cdot sin(- 2 \pi) \right]&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="43.59" width="347.83" x="530" y="1250" as="geometry" />
         </mxCell>
         <mxCell id="_jLuwTUtsV6lF5p9SzgX-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontFamily=Lucida Console;fontColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="***" vertex="1">
-          <mxGeometry height="17.83" width="30" x="860" y="1253" as="geometry" />
+          <mxGeometry height="17.83" width="30" x="864" y="1253" as="geometry" />
         </mxCell>
         <mxCell id="_jLuwTUtsV6lF5p9SzgX-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=21;fontFamily=Lucida Console;fontColor=light-dark(#000000,#80FF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="***" vertex="1">
           <mxGeometry height="17.83" width="30" x="461" y="1323" as="geometry" />
@@ -367,7 +367,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="94jzjNaFcs4BTNMYKPA7" name="Exercise 2">
-    <mxGraphModel dx="2368" dy="-6913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="1700" math="1" shadow="0">
+    <mxGraphModel dx="869" dy="-7752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="1700" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -574,7 +574,7 @@
         <mxCell id="m21LxcbFHnWtogkh_7TT-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#EA6B66);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$$ 0 $$" vertex="1">
           <mxGeometry height="20" width="20" x="308.15000000000003" y="9062.019999999999" as="geometry" />
         </mxCell>
-        <mxCell id="m21LxcbFHnWtogkh_7TT-14" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \int_{0}^{1} 1 \space dt = \int_{0}^{1} dt&amp;nbsp; = [t]_0^1&amp;nbsp; =&amp;nbsp; [1 - 0] \Rightarrow&amp;nbsp; $$" vertex="1">
+        <mxCell id="m21LxcbFHnWtogkh_7TT-14" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \int_{0}^{1} 1 \space dt = \int_{0}^{1} dt&amp;nbsp; = \left[ t \right]_0^1&amp;nbsp; =&amp;nbsp; [1 - 0] \Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="56.85" width="278.62" x="106.81" y="9132.019999999999" as="geometry" />
         </mxCell>
         <mxCell id="m21LxcbFHnWtogkh_7TT-15" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#00FFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; 1 \space \text{ [Joule] }&amp;nbsp; $$" vertex="1">
@@ -605,7 +605,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DyU0EcOzzUfQqbETu1i5" name="Exercise 3">
-    <mxGraphModel dx="868" dy="1279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1181" dy="1426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -861,7 +861,7 @@
         <mxCell id="T4tig9nSS4AWSmA_x5d1-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; 4 \int_{-1}^{0}&amp;nbsp; \space (t + 1)^2 \space dt&amp;nbsp; =&amp;nbsp; 4 \int_{-1}^{0}&amp;nbsp; \space (t + 1)^2 \space d(t + 1)&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="56.85" width="345.1" x="354.9" y="683.46" as="geometry" />
         </mxCell>
-        <mxCell id="T4tig9nSS4AWSmA_x5d1-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{4}{3} [(t + 1)^3]_0^1 =&amp;nbsp;&amp;nbsp;\frac{4}{3} [(0 + 1)^3 - (1 -1)^3]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
+        <mxCell id="T4tig9nSS4AWSmA_x5d1-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{4}{3} \left[(t + 1)^3 \right]_0^1 =&amp;nbsp;&amp;nbsp;\frac{4}{3} \left[(0 + 1)^3 - (1 -1)^3 \right]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="56.85" width="345.1" x="401.31" y="763.12" as="geometry" />
         </mxCell>
         <mxCell id="T4tig9nSS4AWSmA_x5d1-8" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#00FFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{4}{3} \space \text{ [Joules]} $$" vertex="1">
@@ -874,7 +874,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="a3ujEFihBaFXBbEx8M8T" name="Exercise 4">
-    <mxGraphModel dx="1198" dy="841" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1087" dy="764" grid="1" gridSize="10" guides="1" tooltips="0" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -910,10 +910,10 @@
             <mxPoint x="160" y="94" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IDfcM6hOCJMViYuoumf8-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x = \frac{1}{2a} [e^{2at}]_{-\infty}^{+\infty}&amp;nbsp; =&amp;nbsp; \frac{1}{2a} [ e^{2a \cdot (+\infty)} - e^{2a \cdot (-\infty)}&amp;nbsp; ]&amp;nbsp;\Rightarrow $$" vertex="1">
+        <mxCell id="IDfcM6hOCJMViYuoumf8-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x = \frac{1}{2a} \left[e^{2at} \right]_{-\infty}^{+\infty}&amp;nbsp; =&amp;nbsp; \frac{1}{2a} \left[ e^{2a \cdot (+\infty)} - e^{2a \cdot (-\infty)}&amp;nbsp; \right]&amp;nbsp;\Rightarrow $$" vertex="1">
           <mxGeometry height="50" width="312.52" x="-302.34999999999997" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="IDfcM6hOCJMViYuoumf8-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x =&amp;nbsp; \frac{1}{2a} [ e^{ +\infty} - e^{&amp;nbsp; -\infty}&amp;nbsp; ]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;\frac{1}{2a}&amp;nbsp; [e^{ +\infty}&amp;nbsp; -&amp;nbsp; \frac{1}{e^{ +\infty}}]&amp;nbsp; \Rightarrow $$" vertex="1">
+        <mxCell id="IDfcM6hOCJMViYuoumf8-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x =&amp;nbsp; \frac{1}{2a} \left[ e^{ +\infty} - e^{&amp;nbsp; -\infty}&amp;nbsp; \right]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;\frac{1}{2a}&amp;nbsp; \left[e^{ +\infty}&amp;nbsp; -&amp;nbsp; \frac{1}{e^{ +\infty}} \right]&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="50" width="312.52" x="-260" y="260" as="geometry" />
         </mxCell>
         <mxCell id="IDfcM6hOCJMViYuoumf8-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_x&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;\frac{1}{2a}&amp;nbsp; [ +\infty&amp;nbsp; -&amp;nbsp; 0]&amp;nbsp; &amp;nbsp;=&amp;nbsp;&amp;nbsp;&amp;nbsp;\frac{1}{2a} \cdot (+\infty)&amp;nbsp;&amp;nbsp;\Rightarrow $$" vertex="1">
@@ -932,7 +932,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TUonFQ5_J2C8mww_-NHq" name="Exercise 5">
-    <mxGraphModel dx="1493" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="968" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1111,13 +1111,13 @@
         <mxCell id="7Av0Fn65pJK0dxpOJTiD-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x} =&amp;nbsp; \frac{1}{1} \int_{0}^{1} (e^{-t})^2 \space dt&amp;nbsp; =&amp;nbsp; \int_{0}^{1} e^{-2t} \space dt&amp;nbsp;&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="49.77" width="228.2" x="-128.2" y="279" as="geometry" />
         </mxCell>
-        <mxCell id="7Av0Fn65pJK0dxpOJTiD-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;=&amp;nbsp; - \frac{1}{2} [e^{-2t}]_0^1&amp;nbsp; =&amp;nbsp; - \frac{1}{2} \cdot [ e^{-2 \cdot 1} - e^{-2 \cdot 0}]&amp;nbsp; \Rightarrow $$" vertex="1">
+        <mxCell id="7Av0Fn65pJK0dxpOJTiD-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;=&amp;nbsp; - \frac{1}{2} \left[e^{-2t} \right]_0^1&amp;nbsp; =&amp;nbsp; - \frac{1}{2} \cdot \left[ e^{-2 \cdot 1} - e^{-2 \cdot 0} \right]&amp;nbsp; \Rightarrow $$" vertex="1">
           <mxGeometry height="49.77" width="240" x="-100" y="339" as="geometry" />
         </mxCell>
-        <mxCell id="7Av0Fn65pJK0dxpOJTiD-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;= -&amp;nbsp; \frac{1}{2} \cdot [ e^{-2 } - e^{ 0}]&amp;nbsp; =&amp;nbsp; \frac{1}{2} \cdot [ e^{ 0} - e^{-2 }&amp;nbsp;&amp;nbsp;]&amp;nbsp;\Rightarrow $$" vertex="1">
+        <mxCell id="7Av0Fn65pJK0dxpOJTiD-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;= -&amp;nbsp; \frac{1}{2} \cdot \left[ e^{-2 } - e^{ 0} \right]&amp;nbsp; =&amp;nbsp; \frac{1}{2} \cdot \left[ e^{ 0} - e^{-2 }&amp;nbsp; \right]&amp;nbsp;\Rightarrow $$" vertex="1">
           <mxGeometry height="49.77" width="240" x="-66.46000000000001" y="399" as="geometry" />
         </mxCell>
-        <mxCell id="7Av0Fn65pJK0dxpOJTiD-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot [ 1 - \frac{1}{e^2} ]&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot [ 1 - 0.135 ]&amp;nbsp;\Rightarrow $$" vertex="1">
+        <mxCell id="7Av0Fn65pJK0dxpOJTiD-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot \left[ 1 - \frac{1}{e^2} \right]&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot [ 1 - 0.135 ]&amp;nbsp;\Rightarrow $$" vertex="1">
           <mxGeometry height="49.77" width="240" x="-26.23" y="459" as="geometry" />
         </mxCell>
         <mxCell id="7Av0Fn65pJK0dxpOJTiD-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#00FFFF);" value="$$&amp;nbsp; \mathcal{P_x}&amp;nbsp; &amp;nbsp;\approx&amp;nbsp; 0.432 \space \text{ Watt}$$" vertex="1">
@@ -1136,7 +1136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g9pY5Lu09cXSETP6Nf6N" name="Exercise 6">
-    <mxGraphModel dx="909" dy="281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="990" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1257,10 +1257,10 @@
             <mxPoint x="280" y="669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VSlh2R8xxgegPrLx676a-24" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1}&amp;nbsp; &amp;nbsp;\leq&amp;nbsp; \int_{0}^{+\infty} e^{-2t} \space dt&amp;nbsp; =&amp;nbsp; -\frac{1}{2} [e^{-2\cdot t}]_0^{+\infty} = -\frac{1}{2} [e^{-2 \cdot {(+\infty)}} - e^0]&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+        <mxCell id="VSlh2R8xxgegPrLx676a-24" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1}&amp;nbsp; &amp;nbsp;\leq&amp;nbsp; \int_{0}^{+\infty} e^{-2t} \space dt&amp;nbsp; =&amp;nbsp; -\frac{1}{2} \left[e^{-2\cdot t} \right]_0^{+\infty} = -\frac{1}{2} \left[e^{-2 \cdot {(+\infty)}} - e^0 \right]&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="37.43" width="340" x="300" y="650.29" as="geometry" />
         </mxCell>
-        <mxCell id="VSlh2R8xxgegPrLx676a-25" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1}&amp;nbsp; &amp;nbsp;\leq&amp;nbsp; &amp;nbsp;-\frac{1}{2} [e^{-\infty} - 1]&amp;nbsp; =&amp;nbsp; \frac{1}{2} [ 1 - \frac{1}{e^{+\infty}} ]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
+        <mxCell id="VSlh2R8xxgegPrLx676a-25" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1}&amp;nbsp; &amp;nbsp;\leq&amp;nbsp; &amp;nbsp;-\frac{1}{2} \left[e^{-\infty} - 1 \right]&amp;nbsp; =&amp;nbsp; \frac{1}{2} \left[ 1 - \frac{1}{e^{+\infty}} \right]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="36.85" width="240" x="380" y="710" as="geometry" />
         </mxCell>
         <mxCell id="VSlh2R8xxgegPrLx676a-26" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1}&amp;nbsp; &amp;nbsp;\leq&amp;nbsp; &amp;nbsp; \frac{1}{2} [ 1 - 0 ]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
@@ -1466,7 +1466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pZVlDxj0i8Rh1402_0RO" name="Exercise 8">
-    <mxGraphModel dx="1590" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="861" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1564,14 +1564,14 @@
         <mxCell id="QqoWyuv7NLUbG9ZkMip6-4" parent="1" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=light-dark(#000000,#33FF33);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="30" width="102.94" x="103.06" y="1248" as="geometry" />
         </mxCell>
-        <mxCell id="QqoWyuv7NLUbG9ZkMip6-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; - \frac{1}{2} [e^{-2t}]_{0}^{+ \infty} =&amp;nbsp; &amp;nbsp;- \frac{1}{2}&amp;nbsp; [ e^{-2 \cdot (+ \infty) } - e^{-2 \cdot 0 }&amp;nbsp;]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="253.28" x="46.72" y="1300" as="geometry" />
+        <mxCell id="QqoWyuv7NLUbG9ZkMip6-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; - \frac{1}{2} \left[e^{-2t} \right]_{0}^{+ \infty} =&amp;nbsp; &amp;nbsp;- \frac{1}{2}&amp;nbsp; \left[ e^{-2 \cdot (+ \infty) } - e^{-2 \cdot 0 } \right]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="263.28" x="43.72" y="1300" as="geometry" />
         </mxCell>
-        <mxCell id="QqoWyuv7NLUbG9ZkMip6-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; &amp;nbsp;- \frac{1}{2}&amp;nbsp; [ e^ {- \infty } - e^{0}&amp;nbsp;]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;- \frac{1}{2} [ \frac{1}{e^{+ \infty}} - 1]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
+        <mxCell id="QqoWyuv7NLUbG9ZkMip6-6" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; &amp;nbsp;- \frac{1}{2}&amp;nbsp; \left[ e^ {- \infty } - e^{0} \right]&amp;nbsp; =&amp;nbsp;&amp;nbsp;&amp;nbsp;- \frac{1}{2} \left[ \frac{1}{e^{+ \infty}} - 1 \right]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="43.7" width="243.28" x="51.72" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="QqoWyuv7NLUbG9ZkMip6-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; &amp;nbsp;\frac{1}{2} [ 1 - \frac{1}{e^{+ \infty}} =&amp;nbsp; \frac{1}{2} [ 1 -0&amp;nbsp;&amp;nbsp;]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="189.33" x="78.7" y="1420" as="geometry" />
+        <mxCell id="QqoWyuv7NLUbG9ZkMip6-7" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; &amp;nbsp;\frac{1}{2} \left[ 1 - \frac{1}{e^{+ \infty}} \right] =&amp;nbsp; \frac{1}{2} [ 1 -0&amp;nbsp;&amp;nbsp;]&amp;nbsp;\Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="201.3" x="76.7" y="1420" as="geometry" />
         </mxCell>
         <mxCell id="QqoWyuv7NLUbG9ZkMip6-8" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x} \leq&amp;nbsp; \frac{1}{2}&amp;nbsp; \space \text{ J}&amp;nbsp; $$" vertex="1">
           <mxGeometry height="33.7" width="62.43" x="300" y="1425" as="geometry" />
@@ -1634,14 +1634,14 @@
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-1" parent="1" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=2;strokeColor=light-dark(#000000,#FFFF00);movable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="20" width="20" x="30" y="1910" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; \frac{1}{2}&amp;nbsp; \int_{0}^{+\infty} e^{-2t} \space dt&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot (- \frac{1}{2}&amp;nbsp;) [e^{-2t}] _0^{+ \infty}&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="268.27" x="103.06" y="1898.15" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-2" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; \frac{1}{2}&amp;nbsp; \int_{0}^{+\infty} e^{-2t} \space dt&amp;nbsp; &amp;nbsp;=&amp;nbsp; \frac{1}{2} \cdot (- \frac{1}{2}&amp;nbsp;) \left[e^{-2t} \right] _0^{+ \infty}&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="268.27" x="106.06" y="1898.15" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; - \frac{1}{4} [e^{-2 \cdot (+\infty)} - e^{-2 \cdot 0}]&amp;nbsp; =&amp;nbsp; - \frac{1}{4} [e^{- \infty} - e^0 ] \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="274.29" x="106.99" y="1960" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-3" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; - \frac{1}{4} \left[e^{-2 \cdot (+\infty)} - e^{-2 \cdot 0} \right]&amp;nbsp; =&amp;nbsp; - \frac{1}{4} \left[e^{- \infty} - e^0 \right] \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="283.01" x="106.99" y="1960" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; &amp;nbsp;\frac{1}{4} [ e^0 - \frac{1}{e^{ \infty}}&amp;nbsp; ] =&amp;nbsp;&amp;nbsp;\frac{1}{4} [ 1 - 0]&amp;nbsp;&amp;nbsp;&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="192.12" x="107.88" y="2020" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-4" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; &amp;nbsp;\frac{1}{4} \left[ e^0 - \frac{1}{e^{ \infty}}&amp;nbsp; \right] =&amp;nbsp;&amp;nbsp;\frac{1}{4} [ 1 - 0]&amp;nbsp;&amp;nbsp;&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="202.12" x="107.88" y="2020" as="geometry" />
         </mxCell>
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-5" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_1} =&amp;nbsp; \frac{1}{4} \space \text{ J}&amp;nbsp; $$" vertex="1">
           <mxGeometry height="33.7" width="68.32" x="324.01" y="2025" as="geometry" />
@@ -1672,30 +1672,11 @@
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-11" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="10" width="60.33" x="363.87" y="2150" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-12" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{1}{4} \space \text{&amp;nbsp; }&amp;nbsp; e^{-2t} \cdot sin (2t)&amp;nbsp; &amp;nbsp;\space \text{&amp;nbsp; &amp;nbsp; &amp;nbsp;}&amp;nbsp; \space - \int _{0}^{+ \infty} sin (2t) (e^{-2t})&#39;&amp;nbsp; &amp;nbsp;\space \text{&amp;nbsp; }&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="334.5" x="102.5" y="2186.2999999999997" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-12" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{1}{4} \space \left[ e^{-2t} \cdot sin (2t) \Bigg|_{0}^{+ \infty}&amp;nbsp; &amp;nbsp;\space - \int _{0}^{+ \infty} sin (2t) (e^{-2t})&#39;&amp;nbsp; &amp;nbsp;\space&amp;nbsp; \right]&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="334.5" x="105.5" y="2186.2999999999997" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-13" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFFFF);rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
-          <mxGeometry height="10" width="47.07" x="156.6" y="2203.15" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-16" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFFFF);rotation=90;flipH=0;legacyAnchorPoints=0;flipV=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
-          <mxGeometry height="10" width="47.07" x="368.995" y="2203.1549999999997" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-17" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="">
-          <mxGeometry relative="1" width="80" as="geometry">
-            <Array as="points" />
-            <mxPoint x="254.53999999999996" y="2189.35" as="sourcePoint" />
-            <mxPoint x="254.53999999999996" y="2229.35" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$$ 0$$" vertex="1">
-          <mxGeometry height="20" width="20" x="253.53999999999996" y="2215.65" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$$ + \infty $$" vertex="1">
-          <mxGeometry height="20" width="20" x="257.53999999999996" y="2180.65" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-22" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{1}{4} \space [e^{- \infty} \space&amp;nbsp; sin(2 \cdot \infty) - e^0 \space sin(2 \cdot 0)]&amp;nbsp; &amp;nbsp;\space - \frac{1}{4} \cdot (-2) \int _{0}^{+ \infty} sin (2t) \space e^{-2t}&amp;nbsp; \space&amp;nbsp; dt \text{&amp;nbsp; }&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="437" x="78.7" y="2270" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-22" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{1}{4} \space \left[ e^{- \infty} \space&amp;nbsp; sin(2 \cdot \infty) - e^0 \space sin(2 \cdot 0) \right]&amp;nbsp; &amp;nbsp;\space - \frac{1}{4} \cdot (-2) \int _{0}^{+ \infty} sin (2t) \space e^{-2t}&amp;nbsp; \space&amp;nbsp; dt \text{&amp;nbsp; }&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="451.3" x="77.7" y="2270" as="geometry" />
         </mxCell>
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-23" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; \frac{1}{4} \space [0 - 1 \cdot 0 ] \space + \frac{1}{2}&amp;nbsp; \int _{0}^{+ \infty} sin (2t) \space e^{-2t}&amp;nbsp; \space&amp;nbsp; dt \text{&amp;nbsp; }&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="43.7" width="281.3" x="148.85000000000002" y="2340" as="geometry" />
@@ -1709,27 +1690,8 @@
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-26" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFF00);movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
           <mxGeometry height="10" width="88.72" x="378.28" y="2458.7" as="geometry" />
         </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-28" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; - \frac{1}{4} \space \text{&amp;nbsp; }&amp;nbsp; e^{-2t} \cdot cos (2t)&amp;nbsp; &amp;nbsp;\space \text{&amp;nbsp; &amp;nbsp; &amp;nbsp;}&amp;nbsp; \space - \int _{0}^{+ \infty} cos (2t) (e^{-2t})&#39;&amp;nbsp; &amp;nbsp;\space \text{&amp;nbsp; }&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
-          <mxGeometry height="43.7" width="317.5" x="135.02" y="2510" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-29" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFFFF);rotation=90;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
-          <mxGeometry height="10" width="47.07" x="185.93" y="2526.85" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-30" parent="1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=light-dark(#000000,#FFFFFF);rotation=90;flipH=0;legacyAnchorPoints=0;flipV=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="" vertex="1">
-          <mxGeometry height="10" width="47.07" x="399.455" y="2526.8549999999996" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-31" edge="1" parent="1" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;endArrow=none;endFill=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="">
-          <mxGeometry relative="1" width="80" as="geometry">
-            <Array as="points" />
-            <mxPoint x="283.77" y="2513.0499999999997" as="sourcePoint" />
-            <mxPoint x="283.77" y="2553.0499999999997" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$$ 0$$" vertex="1">
-          <mxGeometry height="20" width="20" x="282.77" y="2539.35" as="geometry" />
-        </mxCell>
-        <mxCell id="4CiS7-30Nb2y2kFoCpzf-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="$$ + \infty $$" vertex="1">
-          <mxGeometry height="20" width="20" x="286.77" y="2504.35" as="geometry" />
+        <mxCell id="4CiS7-30Nb2y2kFoCpzf-28" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; - \frac{1}{4} \left[ \space&amp;nbsp; e^{-2t} \cdot cos (2t) \Bigg|_{0}^{+ \infty} \space - \int _{0}^{+ \infty} cos (2t) (e^{-2t})&#39;&amp;nbsp; &amp;nbsp;\space \right]&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
+          <mxGeometry height="43.7" width="324.98" x="135.02" y="2510" as="geometry" />
         </mxCell>
         <mxCell id="4CiS7-30Nb2y2kFoCpzf-35" parent="1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;fontSize=13;fontStyle=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;labelBackgroundColor=none;fontColor=light-dark(#000000,#FFFFFF);" value="$$&amp;nbsp; \mathcal{E}_{x_2} =&amp;nbsp; - \frac{1}{4} ( 0 - 1 \cdot 1 )&amp;nbsp; &amp;nbsp;\space + \frac{1}{4} \cdot (-2) \int _{0}^{+ \infty} e^{-2t}&amp;nbsp; \space cos (2t)&amp;nbsp; \space dt&amp;nbsp; \Rightarrow&amp;nbsp; $$" vertex="1">
           <mxGeometry height="43.7" width="331.55" x="131.42999999999998" y="2590" as="geometry" />

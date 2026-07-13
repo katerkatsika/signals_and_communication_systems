@@ -1276,7 +1276,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="fLI-zuT8TP6KOQhgkQJf" name="Exercise 7">
-    <mxGraphModel dx="1581" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1269" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1306,7 +1306,7 @@
           <mxGeometry height="30" width="60" x="-80" y="395" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="(1)" vertex="1">
-          <mxGeometry height="30" width="30" x="400" y="300" as="geometry" />
+          <mxGeometry height="30" width="30" x="443" y="300" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="Thus:" vertex="1">
           <mxGeometry height="30" width="40" x="-80" y="455" as="geometry" />
@@ -1315,19 +1315,19 @@
           <mxGeometry height="50" width="275" x="38" y="445" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="(2)" vertex="1">
-          <mxGeometry height="30" width="30" x="400" y="395" as="geometry" />
+          <mxGeometry height="30" width="30" x="443" y="395" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="and" vertex="1">
           <mxGeometry height="30" width="30" x="-80" y="511" as="geometry" />
         </mxCell>
-        <mxCell id="XnFfZFSGvBm8kkhwE27m-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontSize=13;fontColor=light-dark(#000000,#FFFFFF);" value="$$ x(t) = cos^2 \space [2 \space \pi \space (t + T)] = \frac{1}{2} \space \{1 + cos \space [4 \space \pi \space (t + T)] \} $$" vertex="1">
-          <mxGeometry height="50" width="355" x="38" y="500" as="geometry" />
+        <mxCell id="XnFfZFSGvBm8kkhwE27m-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontSize=13;fontColor=light-dark(#000000,#FFFFFF);" value="$$ x(t+ T) = cos^2 \space [2 \space \pi \space (t + T)] = \frac{1}{2} \space \{1 + cos \space [4 \space \pi \space (t + T)] \} $$" vertex="1">
+          <mxGeometry height="50" width="382" x="41" y="500" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="(3)" vertex="1">
-          <mxGeometry height="30" width="30" x="400" y="455" as="geometry" />
+          <mxGeometry height="30" width="30" x="443" y="455" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" value="(4)" vertex="1">
-          <mxGeometry height="30" width="30" x="400" y="510" as="geometry" />
+          <mxGeometry height="30" width="30" x="443" y="510" as="geometry" />
         </mxCell>
         <mxCell id="XnFfZFSGvBm8kkhwE27m-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontSize=13;fontColor=light-dark(#000000,#FFFFFF);" value="$$ \frac{1}{2} \space \{1 + cos \space [4 \space \pi \space (t + T)] \}&amp;nbsp; = \frac{1}{2} \space [1 + cos \space (4 \space \pi \space t)] \Rightarrow $$" vertex="1">
           <mxGeometry height="50" width="350" x="610" y="390" as="geometry" />
